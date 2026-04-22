@@ -91,7 +91,7 @@ AI tools were used to:
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/mall-deck.git
+git clone https://github.com/itzmeharsh/mall-deck.git
 cd mall-deck
 npm install
 npm run dev
