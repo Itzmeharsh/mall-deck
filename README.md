@@ -1,36 +1,97 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🏙️ Dubai Mall — Interactive Sales Deck
 
-## Getting Started
+A cinematic, browser-based **interactive sales experience** designed to showcase the Dubai Mall as a global destination for retail, luxury, and events.
 
-First, run the development server:
+> Built as a Digideck-style product — not a traditional website.
+
+---
+
+## 🎯 Overview
+
+Modern mega-malls are no longer just shopping centers — they are **global platforms for brands, experiences, and large-scale events**.
+
+This project transforms the traditional fragmented sales pitch (PDFs, videos, data sheets) into a **single immersive web application** that:
+
+- Captures attention instantly
+- Tells a compelling story visually
+- Drives real business action (leasing, sponsorship, events)
+
+---
+
+## ✨ Key Features
+
+### 🎬 Cinematic Experience
+- Fullscreen video hero section
+- Scroll-based storytelling
+- Smooth transitions & motion
+
+### 🧭 Non-linear Navigation
+- Floating navbar with active section tracking
+- Users control their journey
+
+### 🏬 Business-Focused Sections
+- Retail ecosystem
+- Luxury positioning
+- Events & activations
+- Brand impact & audience value
+
+### 📊 Sales-Driven Design
+- Clear CTAs:
+  - Lease Your Space
+  - Partner With Us
+  - Start Your Activation
+
+### 🎥 Video-First Storytelling
+- Background videos across key sections
+- Designed for emotional engagement
+
+### 🖼️ Visual Flow Enhancements
+- Image strips between sections
+- Cinematic transitions (no hard cuts)
+
+---
+
+## 🧠 Product Thinking
+
+This is not just UI — it’s built as a **conversion-focused sales tool**.
+
+Every section answers:
+- Why this property matters
+- What opportunity exists
+- What action should be taken
+
+---
+
+## ⚙️ Tech Stack
+
+- **Next.js (App Router)**
+- **Tailwind CSS**
+- **Framer Motion**
+- **Lenis (Smooth Scroll)**
+- **Vercel (Deployment)**
+
+---
+
+## 🤖 AI Usage
+
+AI tools were used to:
+- Generate high-impact marketing copy
+- Structure storytelling flow
+- Assist UI/UX decisions
+- Enhance creative direction
+
+---
+
+## 🚀 Live Demo
+
+👉 https://your-vercel-link.vercel.app
+
+---
+
+## 📦 Installation
 
 ```bash
+git clone https://github.com/your-username/mall-deck.git
+cd mall-deck
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
