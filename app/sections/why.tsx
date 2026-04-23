@@ -19,7 +19,7 @@ export default function Why() {
     return (
         <section
             id="why"
-            className="min-h-screen flex flex-col justify-center px-6 md:px-20 py-24 bg-black text-white"
+            className="h-screen flex flex-col justify-center px-6 md:px-20 py-24 bg-black text-white"
         >
             {/* Heading */}
             <motion.h2
